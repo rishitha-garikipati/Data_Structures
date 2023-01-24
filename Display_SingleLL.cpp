@@ -15,7 +15,7 @@ int main()
 	while(1)
 	{
 		printf("enter ch value");
-		scanf("%d",ch);
+		scanf("%d",&ch);
 		switch(ch)
 		{
 			case 1:create();
